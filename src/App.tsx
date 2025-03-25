@@ -17,7 +17,7 @@ function App() {
         
         <div className="relative max-w-7xl mx-auto px-4 h-full flex flex-col justify-center">
           <h1 className="text-5xl md:text-7xl font-bold text-white mb-6">
-            Le Paratante
+            Le Paratente
             <span className="block text-2xl md:text-3xl mt-4 font-normal">
               La Première Tente-Sac à Dos Modulaire au Monde
             </span>
@@ -121,7 +121,7 @@ function App() {
           <div className="grid md:grid-cols-2 gap-8">
             {[
               {
-                quote: "Le Paratante a révolutionné mon expérience de randonnée. Le design modulaire signifie que je suis toujours préparée sans le poids supplémentaire.",
+                quote: "Le Paratente a révolutionné mon expérience de randonnée. Le design modulaire signifie que je suis toujours préparée sans le poids supplémentaire.",
                 author: "Marie C.",
                 title: "Randonneuse Professionnelle"
               },
@@ -148,7 +148,7 @@ function App() {
         <div className="max-w-7xl mx-auto px-4 text-center">
           <h2 className="text-4xl font-bold text-white mb-6">Faites Partie de la Révolution</h2>
           <p className="text-white/90 text-xl mb-8 max-w-2xl mx-auto">
-            Rejoignez la liste d'attente pour être parmi les premiers lors du lancement de Le Paratante. Premier lot disponible en quantité limitée.
+            Rejoignez la liste d'attente pour être parmi les premiers lors du lancement de Le Paratente. Premier lot disponible en quantité limitée.
           </p>
           <div className="max-w-md mx-auto">
             <input
