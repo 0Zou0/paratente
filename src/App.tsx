@@ -122,12 +122,12 @@ function App() {
             {[
               {
                 quote: "Le Paratante a révolutionné mon expérience de randonnée. Le design modulaire signifie que je suis toujours préparée sans le poids supplémentaire.",
-                author: "Sarah K.",
+                author: "Marie C.",
                 title: "Randonneuse Professionnelle"
               },
               {
                 quote: "En tant que parapentiste, j'adore que mes anciennes voiles soient transformées en quelque chose d'aussi innovant. C'est le mélange parfait entre durabilité et fonctionnalité.",
-                author: "Marc R.",
+                author: "Cléa P.",
                 title: "Instructeur de Parapente"
               }
             ].map((testimonial, index) => (
